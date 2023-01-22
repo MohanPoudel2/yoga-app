@@ -1,0 +1,43 @@
+[
+  {
+    "image" : "assets/images/a.png",
+    "title" : "Easy Pose",
+    "video" : "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+
+  },
+  {
+    "image" : "assets/images/a.png",
+    "title" : "Cobra Stretch",
+    "video" : "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "image" : "assets/images/a.png",
+    "title" : "Chaturange Pose",
+    "video" : "https://storage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+  },
+  {
+    "image" : "assets/images/a.png",
+    "title" : "Warrior 3 Pose",
+    "video" : "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "image" : "assets/images/a.png",
+    "title" : "Tree Pose",
+    "video" : "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "image" : "assets/images/a.png",
+    "title" : "Mountain Pose",
+    "video" : "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "image" : "assets/images/a.png",
+    "title" : "Triangle",
+    "video" : "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  },
+  {
+    "image" : "assets/images/a.png",
+    "title" : "Bridge Pose",
+    "video" : "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+  }
+]
